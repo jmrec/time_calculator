@@ -1,1 +1,3 @@
-# time_calculator
+# freeCodeCamp Python Certification
+
+Time Calculator
